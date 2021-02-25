@@ -1,5 +1,6 @@
 # BDMM - Black Desert Mobile Macro - Developed by Keith Wong
-BDM BRS Bot 1.0 has been officially released
+Discord Invite https://discord.gg/SUrmdjZWRU
+
 Main functions
 1. Monitor BRS spawn / Follow Guild Call
 2. Use either main character or alts for BRS auto navigation
