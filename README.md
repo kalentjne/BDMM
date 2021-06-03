@@ -2,11 +2,8 @@
 Discord Invite https://discord.gg/SUrmdjZWRU
 
 Main functions
-1. Monitor BRS spawn / Follow Guild Call
-2. Use either main character or alts for BRS auto navigation
-3. Auto Offering
-4. Go back to pre-defined farming spot after done with BRS
-5. Live Discord notification
+1. All you need for an AFK Bot
+2. Live Discord notification
 
 Requirement
 - PC / Laptop with Windows 10 and Bluestack installed
